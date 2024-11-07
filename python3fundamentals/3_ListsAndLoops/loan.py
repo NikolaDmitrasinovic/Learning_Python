@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov  1 21:20:27 2024
-
-@author: nikol
-"""
-
 # Get details of loan
 money_owed = float(input('How much money do you owe, in dolalrs\n'))
 apr = float(input('What is the annual percantage rate of the laon?\n'))

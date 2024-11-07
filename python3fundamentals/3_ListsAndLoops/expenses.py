@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov  1 20:50:22 2024
-
-@author: nikol
-"""
-
 #expenses = [10.50, 8, 5, 15, 20, 5, 3]
 expenses = []
 num_expenses = int(input('Enter # of expenses:'))
