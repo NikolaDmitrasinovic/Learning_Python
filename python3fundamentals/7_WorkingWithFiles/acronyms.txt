@@ -1,0 +1,4 @@
+ML - Machine Learning
+LIFO - Last In First Out
+UX - User Experience
+JSON - JavaScript Object Notation
